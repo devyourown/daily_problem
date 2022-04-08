@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1010
+
 test_case = int(input())
 
 def pick(west, east):
